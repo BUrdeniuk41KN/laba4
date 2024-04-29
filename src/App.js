@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <TraficLight  tlColorDef = "Red" tlContoroller = {<StatusBar />}/>
-      
+       
     </div>
   );
 }
