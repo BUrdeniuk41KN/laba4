@@ -18,7 +18,7 @@ body{
     grid-template-columns: 200px 200px;
     width: auto;
     height: 250px;
-    /*background-color: rgb(153, 153, 153);*/
+    background-color: rgb(233, 233, 233);
     border: 2px rgb(32, 32, 32) dashed;
     justify-items: center;
     align-items: center;
